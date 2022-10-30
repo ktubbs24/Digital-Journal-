@@ -1,0 +1,6 @@
+- {{renderer :kanban_lqqwjmurai}}
+	- and another thing
+	- and another
+		- and this is nice as well
+- let me see the kanban
+	- this here ![yellow labrador retriever puppy sitting on floor](https://images.unsplash.com/photo-1586671267731-da2cf3ceeb80?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwyNDYwNDl8MHwxfHNlYXJjaHw2fHxkb2d8ZW58MHx8fHwxNjY3MDc3MDE3&ixlib=rb-4.0.3&q=80&w=400)

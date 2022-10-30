@@ -1,0 +1,47 @@
+- # Understanding My Disciplines
+	- *Orderly or prescribed conduct or pattern of behavior - self-control*
+- # My Principles
+	- What does my principles section mean:
+	- My Principles:
+- # My Boundaries
+	- What does my boundaries section mean:
+	- My Boundaries:
+- # My Intentions
+	- What does my intentions section mean: 
+	  collapsed:: true
+		- A determination to act in a certain way or bring about something
+		- I call my habits and routines my intentions so that I can also just view them as something that I have *intentionally *desired to do and not just a list of things to do in my habits or routines
+	- My Intentions:
+- # My Core Work
+	- What does my core work section mean:
+		- What does my core work section mean:
+		- Work done unto the LORD
+		- Work done for His Bride and Church
+		- Work seen in skills and talents I have been blessed with that I do effortlessly
+		- Things that I do not have to practice even if I put that skill or talent down for awhile I do not forget how to do it
+		- This is because this is something that God has called me to do and not just something that I have to teach myself on how to do which is different because anything that I am called to do will be something that I do not have to learn and work to understand on how to do because it would be apart of how I am made and who I am.
+	- My Core Work:
+		- Dying to Self Daily
+			- [[WORD Study]]
+			- [[Life Cases]]
+			- [[Dreams Analysis]]
+			- Personal Analysis
+		- Skills-Talents
+			- Writing
+			- Drawing
+			- Animation
+			- Videos
+			- Teaching
+			- Cooking
+		- Harvest
+			- Motherhood
+			- Outreach
+			- Discipleship
+			- Fellowship
+	- Systems that I have come up with:
+		- [[Focus & Alignment Framework]]
+		- [[P.P.P. Framework]]
+		- [[The i.R.E.S.T. Framework]]
+		- [[The i.H.I.T. Framework]]
+		- [[The Stackbook System]]
+	- ((c41a3b1b-979b-4bd3-85bb-d7dbbc643c01))

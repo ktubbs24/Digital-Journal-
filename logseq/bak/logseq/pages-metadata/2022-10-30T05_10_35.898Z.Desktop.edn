@@ -1,0 +1,156 @@
+[{:block/name "",
+  :block/created-at 1667100859880,
+  :block/updated-at 1667100859880}
+ {:block/name "a",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "address",
+  :block/created-at 1667105584759,
+  :block/updated-at 1667105584759}
+ {:block/name "b",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "c",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "canceled",
+  :block/created-at 1667075400421,
+  :block/updated-at 1667075400421}
+ {:block/name "cancelled",
+  :block/created-at 1667075400421,
+  :block/updated-at 1667075400421}
+ {:block/name "card",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "case",
+  :block/created-at 1667104040532,
+  :block/updated-at 1667104040532}
+ {:block/name "contact",
+  :block/created-at 1667105332948,
+  :block/updated-at 1667105332948}
+ {:block/name "contents",
+  :block/created-at 1667010029058,
+  :block/updated-at 1667010029058}
+ {:block/name "description",
+  :block/created-at 1667104034926,
+  :block/updated-at 1667104034926}
+ {:block/name "disciplines",
+  :block/created-at 1666909284870,
+  :block/updated-at 1666910845520}
+ {:block/name "doing",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "done",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "dreams analysis",
+  :block/created-at 1666910659346,
+  :block/updated-at 1666910659346}
+ {:block/name "email",
+  :block/created-at 1667105555912,
+  :block/updated-at 1667105555912}
+ {:block/name "focus & alignment framework",
+  :block/created-at 1666910117674,
+  :block/updated-at 1666910117674}
+ {:block/name "health",
+  :block/created-at 1666910950357,
+  :block/updated-at 1666910950357}
+ {:block/name "health/well-being",
+  :block/created-at 1666910950356,
+  :block/updated-at 1666910950356}
+ {:block/name "in-progress",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "interests",
+  :block/created-at 1666909711667,
+  :block/updated-at 1666910537097}
+ {:block/name "lamar majors",
+  :block/created-at 1667101943782,
+  :block/updated-at 1667105929574}
+ {:block/name "later",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "life cases",
+  :block/created-at 1666910661968,
+  :block/updated-at 1667103882788}
+ {:block/name "name",
+  :block/created-at 1667105265244,
+  :block/updated-at 1667105265244}
+ {:block/name "notes",
+  :block/created-at 1667105900968,
+  :block/updated-at 1667105900968}
+ {:block/name "notes-or-reminders",
+  :block/created-at 1667105929573,
+  :block/updated-at 1667105929573}
+ {:block/name "now",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "obeying the lusts of the flesh",
+  :block/created-at 1667103026205,
+  :block/updated-at 1667103026205}
+ {:block/name "oct 29th, 2022",
+  :block/created-at 1667075048964,
+  :block/updated-at 1667105124730}
+ {:block/name "oral sex",
+  :block/created-at 1667103007226,
+  :block/updated-at 1667103007226}
+ {:block/name "other",
+  :block/created-at 1667105651205,
+  :block/updated-at 1667105651205}
+ {:block/name "p.p.p. framework",
+  :block/created-at 1666910125176,
+  :block/updated-at 1666910125176}
+ {:block/name "people",
+  :block/created-at 1667101886826,
+  :block/updated-at 1667101943784}
+ {:block/name "phone",
+  :block/created-at 1667105546846,
+  :block/updated-at 1667105546846}
+ {:block/name "responsbilities",
+  :block/created-at 1666909703447,
+  :block/updated-at 1667101886826}
+ {:block/name "seared_conscience",
+  :block/created-at 1667103675259,
+  :block/updated-at 1667103675259}
+ {:block/name "situationship",
+  :block/created-at 1667105520425,
+  :block/updated-at 1667105520425}
+ {:block/name "status",
+  :block/created-at 1667104024587,
+  :block/updated-at 1667104024587}
+ {:block/name "templates",
+  :block/created-at 1667101735860,
+  :block/updated-at 1667105968877}
+ {:block/name "the i.h.i.t. framework",
+  :block/created-at 1666910157564,
+  :block/updated-at 1666910157564}
+ {:block/name "the i.r.e.s.t. framework",
+  :block/created-at 1666910138061,
+  :block/updated-at 1666910138061}
+ {:block/name "the s.h.e. method system",
+  :block/created-at 1666910296663,
+  :block/updated-at 1666910296663}
+ {:block/name "the stackbook system",
+  :block/created-at 1666910163831,
+  :block/updated-at 1666910163831}
+ {:block/name "the tickler file system",
+  :block/created-at 1666910285279,
+  :block/updated-at 1666910285279}
+ {:block/name "todo",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "type",
+  :block/created-at 1667105300449,
+  :block/updated-at 1667105300449}
+ {:block/name "wait",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "waiting",
+  :block/created-at 1666909022417,
+  :block/updated-at 1666909022417}
+ {:block/name "word study",
+  :block/created-at 1666910664120,
+  :block/updated-at 1666910664120}
+ {:block/name "work",
+  :block/created-at 1667105870816, 
+  :block/updated-at 1667105870816}]

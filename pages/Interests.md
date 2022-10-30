@@ -1,0 +1,75 @@
+- # TOP Interests
+- Paper Productivity
+- Task Management
+- Project Management
+- Systems 
+  collapsed:: true
+	- My Personal Systems:
+	- Systems that I have come up with:
+		- [[Focus & Alignment Framework]]
+		  id:: 635b0791-a11a-4092-af20-1b2605241811
+		- [[P.P.P. Framework]]
+		- [[The i.R.E.S.T. Framework]]
+		- [[The i.H.I.T. Framework]]
+		- [[The Stackbook System]]
+	- Budget for my systems 
+	  id:: c41a3b1b-979b-4bd3-85bb-d7dbbc643c01
+	- Different Areas that I use my personal systems
+	- My Systems for Task & Project Management 
+	  collapsed:: true
+		- My Systems for Task Management 
+		  collapsed:: true
+			- [[Focus & Alignment Framework]]
+			- [[P.P.P. Framework]]
+			- [[The Tickler File System]]
+			- [[The S.H.E. Method System]]
+			- [[The Stackbook System]]
+		- My Systems for Project Management
+		  collapsed:: true
+			- [[Focus & Alignment Framework]]
+			- [[P.P.P. Framework]]
+			- [[The S.H.E. Method System]]
+			- [[The Stackbook System]]
+		- My Systems for Writing
+		  collapsed:: true
+			- [[Focus & Alignment Framework]]
+			- [[P.P.P. Framework]]
+			- [[The i.R.E.S.T. Framework]]
+			- [[The i.H.I.T. Framework]]
+			- [[The Stackbook System]]
+		- My Systems for Video Editing
+		- My Systems for Drawing
+		- My Systems for Animation
+- Intentional Living
+- Fountain Pens
+- Studying
+- Note-Taking
+- Writing
+- Organization
+- Drawing
+- Animation
+- Comics
+- Stationary
+- # Passive Interests
+- Cooking
+- Handwriting
+- Reading
+- Eclectic Exploration
+- DIY Projects
+- Hair Growth
+- Fitness
+- Coding
+- Holistic Eating
+- Woodworking
+- Playing Pool
+- # Ongoing Interests
+- TECH
+- Apps
+- Teaching
+- Gardening
+-
+- # Old Interests
+- Marines
+- Video Gaming
+- Martial Arts
+- Anime
